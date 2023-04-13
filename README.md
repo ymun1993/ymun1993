@@ -9,6 +9,7 @@ Hey! Nice to see you
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
 <img src="https://img.shields.io/badge/Nodejs-37b24d?style=for-the-badge&logo=NodeJS&logoColor=white" alt="nodejs"/>
 <img src="https://img.shields.io/badge/MongoDB-2b8a3e?style=for-the-badge&logo=NodeJS&logoColor=white" alt="mongoDB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React&logoColor=white" alt="React Router"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 
